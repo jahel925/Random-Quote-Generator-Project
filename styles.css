@@ -1,0 +1,30 @@
+body{
+text-align: center;
+background-image: url('https://images.pexels.com/photos/1261728/pexels-photo-1261728.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+}
+
+button{
+    font-family: 'Oswald', sans-serif;
+    font-size:22px;
+    background:snow;
+    width: 150px;
+    height:55px;
+    display:block;
+    margin:auto;   
+}
+
+button:hover{
+ color:palevioletred;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size:50px;
+    color:antiquewhite;
+    padding-top:70px;
+}
+div{
+ font-family: 'Oswald', sans-serif;
+    padding-top:30px;
+    font-size:18px;
+    font-weight:bold;
+}
